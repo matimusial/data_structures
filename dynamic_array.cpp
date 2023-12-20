@@ -1,6 +1,3 @@
-﻿//ALGO2 IS1 210B LAB02
-//MATEUSZ MUSIAŁ
-//mm51061@zut.edu.pl
 #include <iostream>
 #include <string>
 #include <time.h>
